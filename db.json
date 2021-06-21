@@ -1,0 +1,33 @@
+{
+  "pagination": {
+    "page_num": 0,
+    "page_size": 30
+  },
+  "filters": [
+    {
+      "type": "EQUAL",
+      "items": [
+        {
+          "name": "asset_type",
+          "value": "0"
+        },
+        {
+          "name": "on_shipment",
+          "value": "yes"
+        },
+        {
+          "name": "client_asset_number",
+          "value": "6208"
+        },
+        {
+          "value": "6208",
+          "name": "name"
+        },
+        {
+          "value": "6208",
+          "name": "bee_name"
+        }
+      ]
+    }
+  ]
+}
