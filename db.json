@@ -1,33 +1,28 @@
 {
-  "pagination": {
-    "page_num": 0,
-    "page_size": 30
-  },
-  "filters": [
+  "data": [
     {
-      "type": "EQUAL",
-      "items": [
-        {
-          "name": "asset_type",
-          "value": "0"
-        },
-        {
-          "name": "on_shipment",
-          "value": "yes"
-        },
-        {
-          "name": "client_asset_number",
-          "value": "6208"
-        },
-        {
-          "value": "6208",
-          "name": "name"
-        },
-        {
-          "value": "6208",
-          "name": "bee_name"
-        }
-      ]
+      "name": "Kankaria Lake",
+      "details": "Manmade lake from the 1500s, with amusement rides, adrenaline attractions & parks lining its shores.",
+      "location": {
+        "lat": 23.0062151,
+        "lng": 72.5989987
+      }
+    },
+    {
+      "name": "Alpha One Mall",
+      "details": "261, Sarkari Vasahat Road, Vastrapur, Ahmedabad, Gujarat 380006",
+      "location": {
+        "lat": 23.0400705,
+        "lng": 72.5292933
+      }
+    },
+    {
+      "name": "Vastrapur Lake",
+      "details": "261Vastrapur is an area in Ahmedabad district in the Indian state of Gujarat. The Indian Institute of Management Ahmedabad is located in this area.",
+      "location": {
+        "lat": 23.0367453,
+        "lng": 72.5218823
+      }
     }
   ]
 }
